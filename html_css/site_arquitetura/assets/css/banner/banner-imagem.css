@@ -1,5 +1,6 @@
 /* Posição do Banner descontando o tam. do menu */
 .banner__imagem{
+    background: url('../../img/banner.jpg') no-repeat center / cover;
     height: calc(100vh - 72px);
     width: 100%;
 }
