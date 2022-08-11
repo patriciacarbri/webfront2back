@@ -1,4 +1,4 @@
-# Estudos para desenvolvimento Web
+# Estudos para Desenvolvimento Web
 
 > Este repositório de arquivos dos projetos desenvolvidos em cursos para desenvolvimento web tanto para front quanto para back-end. 
 
