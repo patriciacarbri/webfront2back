@@ -1,0 +1,5 @@
+/* Posição do Banner descontando o tam. do menu */
+.banner__imagem{
+    height: calc(100vh - 72px);
+    width: 100%;
+}
